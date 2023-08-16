@@ -113,7 +113,7 @@
 
 ## Aufgaben JavaScript
 - Selbstständiges Arbeiten
-- Bei Fragen FRAGT Levin. He the Goat of js 
+- Bei Fragen FRAGT Levin. ```He the Goat of js```
 
 ## Schulische Sachen
 | Lehrperson | Pros | Cons |
