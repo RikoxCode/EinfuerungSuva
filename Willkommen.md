@@ -53,7 +53,7 @@
 | Visual Studio Code (Alle Sprachen) | https://code.visualstudio.com/ |
 | Visual Studio (C#) | https://visualstudio.microsoft.com/de/ |![](image.png)
 | XAMPP | https://www.apachefriends.org/de/download.html |
-| Azure / MySQL | https://azure.microsoft.com/de-de/products/azure-sql |
+| Azure / MySQL | https://azure.microsoft.com/de-de/products/data-studio |
 | Discord | https://discord.com/download |
 &nbsp;
       
